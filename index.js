@@ -20,3 +20,8 @@ function destructivelyRemoveLastDriver(){
   
 }
 
+function destrucivelyRemoveFirstDriver(){
+  
+  drivers.shift();  
+
+}
