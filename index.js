@@ -30,4 +30,6 @@ function appendDriver(name){
   
   const appendedDriversArray = drivers.push(name);
   
+  return appendedDriversArray;
+  
 }
